@@ -1,11 +1,11 @@
-<p align="center">
-  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/room.png?raw=true" width="160px">
-</p>
+<h3 align="center">
+  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/room.png?raw=true">
+</h3>
 
 
-<h1 align="center">
+<h3 align="center">
     <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/create.png" />
-</h1>
+</h3>
 
 <br>
 
@@ -50,11 +50,11 @@ Projeto original da nlw através do link abaixo:
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
 <p align="center">
-  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/room.png?raw=true" width="160px">
+  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/room.png?raw=true">
 </p>
 
 <p align="center">
-  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/rememberama.png" width="160px">
+  <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/rememberama.png">
 </p>
 
 
