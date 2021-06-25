@@ -14,7 +14,7 @@
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
--[Yarn](https://yarnpkg.com/cli/install)
+- [Yarn](https://yarnpkg.com/cli/install)
 
 ## 🚀 Como executar
 
@@ -46,7 +46,7 @@ Rememberama surgiu baseado no Letmeask da nlw6 oferecido pela RocketSeat onde co
 
 ## 🔖 Layout
 
-Projeto original da nlw através do link abaixo:
+Projeto original da nlw através do link
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
 <p align="center">
@@ -56,8 +56,6 @@ Projeto original da nlw através do link abaixo:
 <p align="center">
   <img alt="Rememberama" src="https://github.com/limatainer/QAWebApp/blob/master/rememberama.png">
 </p>
-
-
 
 ---
 
@@ -72,7 +70,6 @@ Feito com 💜 by Rocketseat and recreated by Limatainer
 
 
 🌱 I am a Junior Full Stacker Seed about to grow as a strong tree
-
 ⚡ OPEN TO COLAB
 
 💬 Ask me about anything
