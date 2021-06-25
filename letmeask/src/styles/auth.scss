@@ -6,8 +6,8 @@
   aside {
     flex: 7;
 
-    background: #835afd;
-    color: #FFF;
+    background: #64cb4a;
+    color: #161617;
 
     display: flex;
     flex-direction: column;
@@ -52,7 +52,10 @@
     text-align: center;
 
     > img {
+      width: 100%;
+      height: auto;
       align-self: center;
+      
     }
 
     h2 {
@@ -85,7 +88,7 @@
       margin-top: 16px;
 
       a {
-        color: #e559f9;
+        color: #77b7ff;
       }
     }
   }
@@ -95,7 +98,7 @@
     height: 50px;
     border-radius: 8px;
     font-weight: 500;
-    background: #ea4335;
+    background: #64cb4a;
     color: #FFF;
 
     display: flex;

@@ -36,17 +36,17 @@ export function NewRoom() {
     <div id="page-auth">
       <aside>
         <img src={illustrationImg} alt="Ilustração simbolizando perguntas e respostas" />
-        <strong>Crie salas de Q&amp;A ao-vivo</strong>
-        <p>Tire as dúvidas da sua audiência em tempo-real</p>
+        <strong>Place here and get control of what is important</strong>
+        <p>Share and control your memories</p>
       </aside>
       <main>
         <div className="main-content">
           <img src={logoImg} alt="Letmeask" />
-          <h2>Criar uma nova sala</h2>
+          <h2>Create new memories</h2>
           <form onSubmit={handleCreateRoom}>
             <input 
               type="text"
-              placeholder="Nome da sala"
+              placeholder="Set a name to remember"
               onChange={event => setNewRoom(event.target.value)}
               value={newRoom}
             />
@@ -55,7 +55,7 @@ export function NewRoom() {
             </Button>
           </form>
           <p>
-            Quer entrar em uma sala existente? <Link to="/">clique aqui</Link>
+            Already have a memory? <Link to="/">click here</Link>
           </p>
         </div>
       </main>

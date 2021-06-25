@@ -11,7 +11,18 @@
       align-items: center;
 
       > img {
-        max-height: 45px;
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+      }
+
+      > div {
+        display: flex;
+        gap: 16px;
+
+        button {
+          height: 40px;
+        }
       }
     }
   }
@@ -33,7 +44,7 @@
 
       span {
         margin-left: 16px;
-        background: #e559f9;
+        background: #77b7ff;
         border-radius: 9999px;
         padding: 8px 16px;
         color: #FFF;
@@ -86,7 +97,7 @@
           button {
             background: transparent;
             border: 0;
-            color: #835AFD;
+            color: #77b7ff;
             text-decoration: underline;
             font-size: 14px;
             font-weight: 500;
@@ -94,6 +105,10 @@
           }
         }
       }
+    }
+
+    .question-list {
+      margin-top: 32px;
     }
   }
 }
